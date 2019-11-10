@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+<!-- TOdo: Write usage instructions here -->
+```ruby
+JackViewTool::Renderer.copyright 'Jack', 'All rights reserved'
+```
 
 ## Development
 
